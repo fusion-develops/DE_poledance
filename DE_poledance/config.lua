@@ -13,7 +13,7 @@ Config.StripPoles = {
 }
 
 Config.Anims = {
-    [1] = {dict = 'mini@strip_club@pole_dance@pole_dance1', clip = 'pd_dance_01'},
-    [2] = {dict = 'mini@strip_club@pole_dance@pole_dance2', clip = 'pd_dance_02'},
-    [3] = {dict = 'mini@strip_club@pole_dance@pole_dance3', clip = 'pd_dance_03'},
+    {dict = 'mini@strip_club@pole_dance@pole_dance1', clip = 'pd_dance_01'},
+    {dict = 'mini@strip_club@pole_dance@pole_dance2', clip = 'pd_dance_02'},
+    {dict = 'mini@strip_club@pole_dance@pole_dance3', clip = 'pd_dance_03'},
 }
